@@ -1,0 +1,10 @@
+	White Hole: *1, *1, *1, *2, *2, *2, *2, *2, *4, *4, *4, *5, *5, 5*, *5, *6
+	Characters 1 & 2: Crime (space pirate & rival smuggler), Sys-Works
+	Characters 2 & 3: War (war hero & deserter), To Punish Them, Sensors (vacuum locator device)
+	Characters 3 & 4: Crew Members (manipulative schemers), Attire
+	Characters 4 & 1: Comrades (same small town, same backwater planet), To Command (a pirate ship filled with plunder), flight deck
+	1 crime, 2 war, 3 crew members, 4 comrades, 1 pirate/rival smuggler, 2 war hero/deserter, 3 manipulative schemers, 4 same backwater planet, 1 sys-works, 2 to punish them, 3 attire, 4 to command, 1 pirate ship, 2 sensors, 3 vacuum locator device, 4 flight deck
+	Character 1: female
+	Character 2: female
+	Character 3: male
+	Character 4: male
