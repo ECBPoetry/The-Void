@@ -63,11 +63,16 @@
 	Character 4: 4 convinces 3 to help steal Black Talis's cargo but they don't know how to smuggle the cargo off the station
 	4 suggests using 2 to help smuggle the cargo off the station
 	3 finds out 2 is a deserter and objects to using a coward
+	"Ballsy enough to be a smuggler."
+	"Look. Look at this. This little pissant barely had anything of value. 1 ton of narthiris blossoms. Fucking flowers! She'll get 1 year min-sec tops. Ooo, 'ballsy.' We're risking more than this cowardly bitch ever has in her fucking useless life."
+	"You got a better candidate, war hero?"
 	4 demands 3 find an alternative to 2, and 3, unable to come up with one, insists on interviewing 2
 	interrogating 2, 3 finds out 2 is less a coward and more a sympathizer: a traitor
 	Character 2: 3 tries to kill 2, 4 intercedes insisting they need her
 	the anomaly wracks the station
 	Talis: Talis & 2 escape their cells
+	2 smirks. "They fail open. How humane."
+	"How stupid."
 	3 sees Talis & 2 and pursues them. They slip into a televator as 3 throws his knife at 2. The knife sticks in the televator door.
 	Character 3: 3 disables televator Talis & 2 are using
 	3 & 4 meet up and head toward the flight deck but are blocked by vacuum.
@@ -76,8 +81,21 @@
 	Character 2: Talis & 2 fail to reach the flight deck because of a locked door
 	Character 3: 3 convinces 4 to allow 3 the use of the spacesuit
 	Talis: Talis finds an injured, immobile crew member who gives her a key card
+	Crew member doesn't let go of card until 2 grabs his wrist and says, "We'll help you, motherfucker. Now let go."
 	Talis: Talis refuses to help crew member, 2 snatches key card away from Talis
+	"Med Lab."
+	"So?"
+	"So we agreed to help that motherfucker."
+	"I don't give a fu..." Key card stolen, med-bay door opened.
 	Character 2: 2 tries to help injured crew member but Talis kills him
+	They return. "You came back."
+	"Surprised? I keep my word, asshole."
+	"Help me lift this shit."
+	They struggle against the wreckage pinning him.
+	"Let me try to get a better grip."
+	"No use." Talis cuts his throat with a scalpel.
+	"What the fuck?!"
+	In 2's moment of shock, key card snatched back. "He would've slowed us down anyway." Talis walks away. "Coming?"
 	Character 3: 3's suit is damaged squeezing through door onto flight deck
 	Character 4: Talis & 2 stumble upon 4 and overpower him
 	Character 2: 2 finds out her ship is destroyed
@@ -85,7 +103,9 @@
 	Character 4: 4 watches on the monitor as 3 ejects Talis's cargo into space
 	Character 3: 3 passes out from lack of oxygen
 	Talis: Talis sees on the monitor a rescue team arriving at the station
+	"Rescue team. Unarmed. We're going home."
 	Character 4: following the rescue team off the ship is a squad of marines
+	"Prison."
 	Character 3: 3 is rescued from the flight deck before he can die
 	Character 4: Talis tells marines she will kill 4 if she's not given transport and freedom
 	Character 4: the marines rush in. 2 intervenes to save 4 as 4 did for her, wrestling with Talis. 2 is shot in the leg by the marines. With 2 on the ground, Talis shoots and kills 4 before she herself is shot in the shoulder by the marines. Talis & 2 are subdued and taken into custody.
