@@ -19,3 +19,40 @@
 	Character 2: 3 tries to kill 2 but fails and 3's vacuum locator device is damaged (resolves, white die)
 	Character 3: 3 manages to disable televator 1 & 2 are riding (resolves, white die)
 	Character 4: 
+
+* * *
+
+	Character 1: 1 & 2 escape their cells (establishes, white die)
+	Character 2: [flashback] 3 tries to kill 2, in the struggle 2 steals item needed to escape (resolves, white die)
+	Character 3: 3 disables televator 1 & 2 are using (resolves, white die)
+	Character 4: 3 & 4 find a single spacesuit (establishes, white die)
+	Character 1: 1 & 2 escape the televator (resolves, white die)
+	Character 2: 1 & 2 fail to reach the flight deck because of locked door (establishes, black die)
+	Character 3: 3 convinces 4 to allow 3 the use of the spacesuit (resolves, white die)
+	Character 4: [flashback] 4 convinces 3 to help steal pirate ship (establishes, white die)
+	Tilt: 2, *3, *3, 4, 5, 5, *6, *6 (innocence: a well-meaning stranger intervenes, failure: a tiny mistake leads to ruin)
+	Character 1: 1 finds an injured, immobile crew member who gives her a key card (resolves, white die)
+	Character 2: 2 tries to help injured crew member but 1 kills him (establishes, black die)
+	Character 3: 3's suit is damaged squeezing through door onto flight deck (establishes, black die)
+	Character 4: 1 & 2 show up and overpower 4 (establishes, black die)
+	Character 1: [flashback] 1 refuses to help crew member, 2 wrestles key card away from 1 (establishes, black die)
+	Character 2: 2 finds out her ship is destroyed (establishes, black die)
+	Character 3: realizing his suit is damaged, 3 tries to return to pressured part of station and finds door locked (establishes, black die)
+	Character 4: 4 watches on the monitor as 3 ejects the pirate ship's cargo into space (establishes, black die)
+	The Aftermath: 1 = 4 white [bitter], 2 = 10 black [pretty good], 3 = 2 black [brutal], 4 = 2 white [merciless]
+	Character 1: 1 sees on the monitor a rescue team arriving at the station
+	Character 2: 2 is taken into custody
+	Character 3: 3 passes out from lack of oxygen
+	Character 4: 4 sees on the monitor that the rescue team is accompanied by marines
+	Character 1: 1 is taken into custody
+	Character 2: 2 is injured when the marines storm in
+	Character 3: 3 is rescued from the flight deck before he can die
+	Character 4: 1 threatens to kill 4 if she's not given transport and freedom
+	Character 1: 1 is found guilty of murder
+	Character 2: 3 tortures 2 with stun baton
+	Character 3: 3 is allowed to escort 2 to the brig alone
+	Character 4: the marines rush in and shoot 1
+	Character 1: 1 is in prison and hears about the recent exploits of a legendary pirate who used to be her but is now 2
+	Character 2: 2 uses 3's card key to steal the pirate ship and escape
+	Character 3: 3 tries to kill 2 but dies in the struggle
+	Character 4: 1, who was only shot in the shoulder, kills 4
