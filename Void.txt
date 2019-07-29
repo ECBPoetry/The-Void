@@ -12,3 +12,10 @@
 	Character 1: 3 escorts 1 & 2 to the televator during the crisis but they become trapped (establishes, gets black die)
 	Character 2: 3 tries to kill 2 but fails and the vacuum locator device is broken in the struggle (resolves, gets white die)
 	Character 3: 
+
+* * *
+
+	Character 1: 1 & 2 make plan to kill 3 and escape (establishes, white die)
+	Character 2: 3 tries to kill 2 but fails and 3's vacuum locator device is damaged (resolves, white die)
+	Character 3: 3 manages to disable televator 1 & 2 are riding (resolves, white die)
+	Character 4: 
