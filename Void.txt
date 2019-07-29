@@ -73,6 +73,7 @@
 	Talis: Talis & 2 escape their cells
 	2 smirks. "They fail open. How humane."
 	"How stupid."
+	the two pairs (1 & 2, 3 & 4) are blocked by wreckage and have to dig their way out. Both pairs occasionally hear voices and running feet beyond the wreckage
 	3 sees Talis & 2 and pursues them. They slip into a televator as 3 throws his knife at 2. The knife sticks in the televator door.
 	Character 3: 3 disables televator Talis & 2 are using
 	3 & 4 meet up and head toward the flight deck but are blocked by vacuum.
@@ -86,20 +87,20 @@
 	"Med Lab."
 	"So?"
 	"So we agreed to help that motherfucker."
-	"I don't give a fu..." Key card stolen, med-bay door opened.
+	"I don't give a fu..." Key card stolen, med-bay door opened. "Coming?"
 	Character 2: 2 tries to help injured crew member but Talis kills him
 	They return. "You came back."
-	"Surprised? I keep my word, asshole."
+	"Surprised? I keep my word, motherfucker."
 	"Help me lift this shit."
 	They struggle against the wreckage pinning him.
 	"Let me try to get a better grip."
 	"No use." Talis cuts his throat with a scalpel.
 	"What the fuck?!"
 	In 2's moment of shock, key card snatched back. "He would've slowed us down anyway." Talis walks away. "Coming?"
-	Character 3: 3's suit is damaged squeezing through door onto flight deck
+	Character 3: 3's suit is damaged squeezing through door onto flight deck.
 	Character 4: Talis & 2 stumble upon 4 and overpower him
 	Character 2: 2 finds out her ship is destroyed
-	Character 3: realizing his suit is damaged, 3 tries to return to pressured part of station and finds door locked
+	Character 3: 3 manages to make the atmosphere to the flight deck restorable but is overridden from the control room. Realizing his suit is damaged, 3 tries to return to pressured part of station and finds the door locked
 	Character 4: 4 watches on the monitor as 3 ejects Talis's cargo into space
 	Character 3: 3 passes out from lack of oxygen
 	Talis: Talis sees on the monitor a rescue team arriving at the station
@@ -116,7 +117,7 @@
 	"I lost friends there."
 	"Then listen to me. She's a sympathizer: a fucking traitor."
 	the commander opens a drawer, fishes through it, retrieves a key card, and examines it.
-	He looks at 3. "If any of my marines see you mistreating our prisoner, they are required under Article 13.10 to stop you. Are you understanding me?"
+	He looks at 3. "If any of my marines see you mistreating my prisoner, they are required under Article 13.10 to stop you. Are you understanding me?"
 	3 smiles. "Understood." The commander hands him the key card
 	the commander walks past 3 and opens the door. "Evans."
 	"Sir?"
