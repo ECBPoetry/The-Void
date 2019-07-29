@@ -80,7 +80,7 @@
 	Character 4: 3 & 4 search around and find a single spacesuit
 	Talis: Talis & 2 escape the televator
 	Character 2: Talis & 2 fail to reach the flight deck because of a locked door
-	Character 3: 3 convinces 4 to allow 3 the use of the spacesuit
+	Character 3: 3 convinces 4 to allow 3 the use of the spacesuit but gives up his key card in exchange
 	Talis: Talis finds an injured, immobile crew member who gives her a key card
 	Crew member doesn't let go of card until 2 grabs his wrist and says, "We'll help you, motherfucker. Now let go."
 	Talis: Talis refuses to help crew member, 2 snatches key card away from Talis
