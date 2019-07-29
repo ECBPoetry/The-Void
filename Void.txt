@@ -111,10 +111,21 @@
 	Character 4: the marines rush in. 2 intervenes to save 4 as 4 did for her, wrestling with Talis. 2 is shot in the leg by the marines. With 2 on the ground, Talis shoots and kills 4 before she herself is shot in the shoulder by the marines. Talis & 2 are subdued and taken into custody.
 	Talis is taken away to the rescue ship's brig
 	Character 3: 3 is allowed to escort 2 to the rescue ship's brig alone
+	"I wasn't on the front lines of that conflict."
+	"Well I was. Do you know what it was like?"
+	"I lost friends there."
+	"Then listen to me. She's a sympathizer: a fucking traitor."
+	the commander opens a drawer, fishes through it, retrieves a key card, and examines it.
+	He looks at 3. "If any of my marines see you mistreating our prisoner, they are required under Article 13.10 to stop you. Are you understanding me?"
+	3 smiles. "Understood." The commander hands him the key card
+	the commander walks past 3 and opens the door. "Evans."
+	"Sir?"
+	the commander gestures at 3, "He will be escorting the prisoner."
+	"Yes, sir."
 	as 3 & 2 walk down the corridor, their vacuum locator badges periodically beep when they pass certain doors
 	Character 2: 3 tortures 2, hitting her injured leg repeatedly with a stun baton
 	2 grabs at 3 during the struggle and his key card comes free
 	as she tries to limp away, he hits her with the baton again and she stumbles forward several feet, her vacuum locator beeping, and falls to the ground just passed a door, with key card in hand
 	3 pulls out his knife and walks toward 2. Beep. She looks at his chest, he looks down and sees his vacuum locator flashing red. She reaches up, swipes the key card through the door lock, and slams her hand on the button. He is blown out into space.
-	Character 2: 2 uses the key card to steal Black Talis's ship and flee the station.
+	Character 2: 2 uses the key card to steal Black Talis's ship and flee the station. "Long live Black Talis."
 	in prison, an anonymous lifer sees a story on the news about the ongoing exploits of Black Talis, the legendary pirate. In a rage, she starts a fight with the nearest inmate.
